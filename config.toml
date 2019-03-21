@@ -1,0 +1,8 @@
+baseURL = "https://kevdougful.com/"
+languageCode = "en-us"
+title = "kevdougful.com"
+theme = "Niello"
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
