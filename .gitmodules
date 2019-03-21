@@ -1,0 +1,3 @@
+[submodule "themes/Niello"]
+	path = themes/Niello
+	url = git@github.com:guangmean/Niello.git
