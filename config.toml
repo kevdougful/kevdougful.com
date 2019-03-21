@@ -6,3 +6,6 @@ theme = "Niello"
 [permalinks]
     post = "/:year/:month/:day/:title/"
     page = "/:title/"
+
+[params]
+    copyright = "&#xA9; 2019 by kevdougful.com"
