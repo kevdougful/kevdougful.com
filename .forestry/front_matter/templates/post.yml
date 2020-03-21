@@ -13,15 +13,5 @@ fields:
   label: draft
   description: Determines if should be shown publicly.
   default: true
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: body
-  description: The body of the post
 pages:
 - content/post/sample-post.md
