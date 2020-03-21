@@ -12,3 +12,13 @@ fields:
   type: boolean
   label: draft
   description: Determines if should be shown publicly.
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Body
+  description: The body of the post
