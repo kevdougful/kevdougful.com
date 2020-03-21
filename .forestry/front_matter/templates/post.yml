@@ -23,3 +23,5 @@ fields:
       format: markdown
   label: body
   description: The body of the post
+pages:
+- content/post/sample-post.md
